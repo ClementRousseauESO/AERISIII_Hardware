@@ -1,3 +1,2 @@
- - Add telemetry circuitry
- - Add flash chip
  - Add usb to uart chip
+ - Add 12V_on
