@@ -1,0 +1,8 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MX25L51245G
+D 3V, 512MB CMOS Flash memory chip
+F https://docs-emea.rs-online.com/webdocs/14ac/0900766b814ac719.pdf
+$ENDCMP
+#
+#End Doc Library

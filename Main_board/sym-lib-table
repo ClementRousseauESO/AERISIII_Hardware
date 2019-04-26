@@ -1,0 +1,5 @@
+(sym_lib_table
+  (lib (name XR2206)(type Legacy)(uri ${KIPRJMOD}/lib/XR2206.lib)(options "")(descr ""))
+  (lib (name TXS0104)(type Legacy)(uri ${KIPRJMOD}/lib/TXS0104.lib)(options "")(descr ""))
+  (lib (name MX25L51245G)(type Legacy)(uri ${KIPRJMOD}/lib/MX25L51245G.lib)(options "")(descr ""))
+)
