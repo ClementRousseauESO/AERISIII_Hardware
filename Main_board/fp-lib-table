@@ -1,0 +1,4 @@
+(fp_lib_table
+  (lib (name SHIELD_GPS_ADAFRUIT)(type KiCad)(uri ${KIPRJMOD}/lib/SHIELD_GPS_ADAFRUIT.pretty)(options "")(descr ""))
+  (lib (name SHIELD_MPU_6050)(type KiCad)(uri ${KIPRJMOD}/lib/SHIELD_MPU_6050.pretty)(options "")(descr ""))
+)
