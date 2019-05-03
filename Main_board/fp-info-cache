@@ -1,4 +1,4 @@
-15819028182837041
+15822141992058746
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -49056,6 +49056,13 @@ Footprint for adafruit GPS breakout board
 9
 9
 Module
+SHIELD_MPU_6050
+
+
+0
+8
+8
+Module
 ST_Morpho_Connector_144_STLink
 ST Morpho Connector 144 With STLink
 ST Morpho Connector 144 STLink
@@ -65225,6 +65232,13 @@ Footprint for adafruit GPS breakout board
 0
 9
 9
+SHIELD_MPU_6050
+SHIELD_MPU_6050
+
+
+0
+8
+8
 Socket
 3M_Textool_240-1288-00-0602J_2x20_P2.54mm
 3M 40-pin zero insertion force socket, though-hole, row spacing 25.4 mm (1000 mils)
