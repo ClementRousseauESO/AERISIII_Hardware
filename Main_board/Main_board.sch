@@ -611,9 +611,9 @@ Wire Notes Line
 Wire Notes Line
 	13250 6700 15400 6700
 Text Label 9300 1700 0    50   ~ 0
-hall
+btn1
 Text Label 9300 1800 0    50   ~ 0
-seq
+btn2
 Text Label 9300 1900 0    50   ~ 0
 uart_on
 Text Label 9300 2000 0    50   ~ 0
@@ -627,11 +627,11 @@ xtal1
 Text Label 9300 2400 0    50   ~ 0
 xtal2
 Text Label 9300 2600 0    50   ~ 0
-press
+pressure
 Text Label 9300 2800 0    50   ~ 0
-btn1
+hall
 Text Label 9300 2900 0    50   ~ 0
-btn2
+seq
 Text Label 9300 3000 0    50   ~ 0
 sda
 Text Label 9300 3100 0    50   ~ 0
@@ -647,11 +647,11 @@ despin
 Text Label 9300 3700 0    50   ~ 0
 pneuma
 Text Label 9300 3800 0    50   ~ 0
-led1
+12v_on
 Text Label 9300 3900 0    50   ~ 0
-led2
+led1
 Text Label 9300 4000 0    50   ~ 0
-led3
+led2
 Wire Wire Line
 	7650 1350 8000 1350
 Connection ~ 8000 1350
@@ -1116,7 +1116,7 @@ Wire Wire Line
 Wire Wire Line
 	13700 7800 13700 7750
 Text Label 9300 4100 0    50   ~ 0
-12v_on
+led3
 Wire Wire Line
 	9300 4100 9250 4100
 $Comp
@@ -1713,7 +1713,7 @@ U 1 1 5CC26C2F
 P 3350 6100
 F 0 "C11" H 3465 6146 50  0000 L CNN
 F 1 "10n" H 3465 6055 50  0000 L CNN
-F 2 "Capacitor_SMD:C_1206_3216Metric" H 3388 5950 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 3388 5950 50  0001 C CNN
 F 3 "~" H 3350 6100 50  0001 C CNN
 	1    3350 6100
 	1    0    0    -1  
@@ -1735,7 +1735,7 @@ U 1 1 5CC331DB
 P 4800 6100
 F 0 "C12" H 4915 6146 50  0000 L CNN
 F 1 "10n" H 4915 6055 50  0000 L CNN
-F 2 "Capacitor_SMD:C_1206_3216Metric" H 4838 5950 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 4838 5950 50  0001 C CNN
 F 3 "~" H 4800 6100 50  0001 C CNN
 	1    4800 6100
 	1    0    0    -1  
@@ -1889,7 +1889,7 @@ U 1 1 5CC66F81
 P 2000 3200
 F 0 "C9" H 2115 3246 50  0000 L CNN
 F 1 "4.7n" H 2115 3155 50  0000 L CNN
-F 2 "Capacitor_SMD:CP_Elec_4x5.4" H 2038 3050 50  0001 C CNN
+F 2 "Capacitor_SMD:C_0603_1608Metric" H 2038 3050 50  0001 C CNN
 F 3 "~" H 2000 3200 50  0001 C CNN
 	1    2000 3200
 	1    0    0    -1  
@@ -1921,8 +1921,8 @@ L Device:CP C6
 U 1 1 5CC69B61
 P 2850 2150
 F 0 "C6" V 3105 2150 50  0000 C CNN
-F 1 "10n" V 3014 2150 50  0000 C CNN
-F 2 "Capacitor_SMD:C_1206_3216Metric" H 2888 2000 50  0001 C CNN
+F 1 "10u" V 3014 2150 50  0000 C CNN
+F 2 "Capacitor_SMD:CP_Elec_4x5.4" H 2888 2000 50  0001 C CNN
 F 3 "~" H 2850 2150 50  0001 C CNN
 	1    2850 2150
 	0    -1   -1   0   

@@ -1,4 +1,4 @@
-15822141992058746
+15819028482341124
 Battery
 BatteryHolder_Bulgin_BX0036_1xC
 Bulgin Battery Holder, BX0036, Battery Type C (https://www.bulgin.com/products/pub/media/bulgin/data/Battery_holders.pdf)
@@ -49048,20 +49048,6 @@ raspberry pi zero through hole
 0
 40
 40
-Module
-SHIELD_GPS_ADAFRUIT
-Footprint for adafruit GPS breakout board
-
-0
-9
-9
-Module
-SHIELD_MPU_6050
-
-
-0
-8
-8
 Module
 ST_Morpho_Connector_144_STLink
 ST Morpho Connector 144 With STLink
