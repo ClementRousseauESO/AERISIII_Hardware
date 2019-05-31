@@ -1,7 +1,7 @@
 (export (version D)
   (design
     (source F:\dev\CAO\KiCad\AERISIII_Hardware\Main_board\Main_board.sch)
-    (date "31/05/2019 19:33:31")
+    (date "31/05/2019 23:46:27")
     (tool "Eeschema (5.1.0)-1")
     (sheet (number 1) (name /) (tstamps /)
       (title_block
