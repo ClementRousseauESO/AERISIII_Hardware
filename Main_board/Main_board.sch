@@ -627,7 +627,7 @@ xtal1
 Text Label 9300 2400 0    50   ~ 0
 xtal2
 Text Label 9300 2600 0    50   ~ 0
-press
+pressure
 Text Label 9300 2800 0    50   ~ 0
 hall
 Text Label 9300 2900 0    50   ~ 0
